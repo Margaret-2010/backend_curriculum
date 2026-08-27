@@ -35,5 +35,5 @@ GROUP BY occupation;
 SELECT MIN(date) AS earliest_date, MAX(date) AS latest_date
 FROM flexi;
 
--- 9. Drop the table entirely (cleanup step, run only when you're done practicing)
+-- 9. Dropping the table 
 -- DROP TABLE flexi;
